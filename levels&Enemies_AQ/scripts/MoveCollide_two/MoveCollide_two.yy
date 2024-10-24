@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MoveCollide_two",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MoveCollide_two",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

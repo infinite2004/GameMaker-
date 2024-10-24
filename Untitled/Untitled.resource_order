@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_ball","order":3,"path":"objects/obj_ball/obj_ball.yy",},
+    {"name":"obj_block","order":1,"path":"objects/obj_block/obj_block.yy",},
+    {"name":"obj_blockgen","order":2,"path":"objects/obj_blockgen/obj_blockgen.yy",},
+    {"name":"obj_collidable","order":4,"path":"objects/obj_collidable/obj_collidable.yy",},
+    {"name":"obj_particle","order":6,"path":"objects/obj_particle/obj_particle.yy",},
+    {"name":"obj_screenshake","order":5,"path":"objects/obj_screenshake/obj_screenshake.yy",},
+    {"name":"screemshake","order":1,"path":"scripts/screemshake/screemshake.yy",},
+    {"name":"spr_ball","order":2,"path":"sprites/spr_ball/spr_ball.yy",},
+    {"name":"spr_paddle","order":1,"path":"sprites/spr_paddle/spr_paddle.yy",},
+  ],
+}
